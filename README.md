@@ -19,5 +19,3 @@
 [Official ICC Men's T20 World Cup 2022 Website](https://2022.t20worldcup.com/)
 
 [Wikipedia](https://en.wikipedia.org/wiki/2022_ICC_Men%27s_T20_World_Cup)
-
-![image.png](attachment:47689bd7-bf20-436f-b65e-cc49b0df8b70.png)
